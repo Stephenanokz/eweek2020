@@ -6,10 +6,6 @@
         margin:0;
         padding:0;
         width: 100%;
-        background-image: url('img/ab-bg.jpg');
-        background-size: cover;
-        background-repeat: no-repeat;
-        background-attachment: fixed;
         overflow-x: hidden;
     }
 
