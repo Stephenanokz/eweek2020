@@ -19,6 +19,7 @@
         background-size: cover;
         height: 70vh;
         margin: 0;
+        padding: 0 auto;
     }
 
     .navbar {
